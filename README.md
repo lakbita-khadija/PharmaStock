@@ -1,7 +1,7 @@
 # ⚕️ PharmaStock Pro
 
 > **Système de gestion de stock de pharmacie avancé**  
-> Application web full-stack Java Spring Boot + React — Projet PFA
+> Application web full-stack Java Spring Boot + React — Projet JEE
 
 <div align="center">
 
