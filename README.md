@@ -219,8 +219,8 @@ pharmastock/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-username/pharmastock-pro.git
-cd pharmastock-pro
+git clone https://github.com/lakbita-khadija/PharmaStock.git
+cd Pharmastock
 ```
 
 ### 2. Configurer la base de données
