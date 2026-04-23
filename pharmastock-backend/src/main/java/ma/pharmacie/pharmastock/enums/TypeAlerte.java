@@ -1,0 +1,2 @@
+package ma.pharmacie.pharmastock.enums;
+public enum TypeAlerte { STOCK_FAIBLE, RUPTURE, PEREMPTION_90J, PEREMPTION_30J, PEREMPTION_7J, LOT_EXPIRE, RAPPEL_LOT, ANOMALIE_RECEPTION }

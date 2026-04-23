@@ -1,0 +1,4 @@
+ma\pharmacie\pharmastock\controller\MedicamentControllerIntegrationTest.class
+ma\pharmacie\pharmastock\service\StockServiceTest.class
+ma\pharmacie\pharmastock\service\AuthServiceTest.class
+ma\pharmacie\pharmastock\service\VenteServiceTest.class
