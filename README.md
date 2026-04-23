@@ -235,7 +235,7 @@ Modifier `pharmastock-backend/src/main/resources/application.properties` si beso
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/pharmastock
 spring.datasource.username=postgres
-spring.datasource.password=postgres
+spring.datasource.password=khadija
 ```
 
 ### 3. Démarrer le backend
