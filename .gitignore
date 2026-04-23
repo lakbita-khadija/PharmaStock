@@ -1,0 +1,23 @@
+# FRONTEND
+pharmastock-frontend/node_modules/
+pharmastock-frontend/dist/
+pharmastock-frontend/build/
+
+# BACKEND
+pharmastock-backend/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# LOGS
+*.log
+
+# ENV
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
